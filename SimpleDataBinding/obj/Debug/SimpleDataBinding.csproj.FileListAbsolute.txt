@@ -1,0 +1,15 @@
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\bin\Debug\SimpleDataBinding.exe.config
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\bin\Debug\SimpleDataBinding.exe
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\bin\Debug\SimpleDataBinding.pdb
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.csprojAssemblyReference.cache
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\App.g.cs
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding_MarkupCompile.cache
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding_MarkupCompile.lref
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\MainWindow.baml
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.g.resources
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.Properties.Resources.resources
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.csproj.GenerateResource.cache
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.exe
+C:\Users\jose_\source\repos\SimpleDataBinding\SimpleDataBinding\obj\Debug\SimpleDataBinding.pdb

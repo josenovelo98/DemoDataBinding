@@ -5,13 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SimpleDataBinding"
         mc:Ignorable="d"
-        Title="Simple Data Bindong" Height="250" Width="150">
+        Title="Simple Data Binding" Height="250" Width="150">
     <StackPanel Margin="10">
         <Label Content="Escriba algo" Margin="8"/>
-        <TextBox x:Name="TextoTextBox" Margin="8,4" TextChanged="TextoTextBox_TextChanged"/>
+        <TextBox x:Name="TextoTextBox" Margin="8,4"/>
         <WrapPanel Orientation="Vertical" Margin="10">
             <TextBlock Text="Texto escrito:" Margin="8"/>
-            <TextBlock x:Name="TextoTextBlock" FontStyle="Italic" HorizontalAlignment="Center" Margin="8"/>
+            <TextBlock x:Name="TextoTextBlock" FontStyle="Italic" HorizontalAlignment="Center" Margin="8" Text="{Binding ElementName=TextoTextBox, Path=Text}"/>
         </WrapPanel>
     </StackPanel>
 </Window>
